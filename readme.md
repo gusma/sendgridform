@@ -1,12 +1,12 @@
 # sendgridform v0.1
 
-A simple contact form using sendgrid's api, and with a simple verification method using recaptcha.
+A simple contact form using sendgrid's api, and protected with recaptcha (and a very simple verification method).
+
 This was mangled together by [Gustavo Malamud] (http://www.malamud.com.ar) at [hola at gustavomalamud.com.ar](hola@gustavomalamud.com.ar).
 
 ## Requisites
 
-This contact form only needs your web server to be able to run html, php (5.4+ on compatible as far as I know) and css. Nothing the year 2015 cannot handle.
-It's a pretty basic script.
+This contact form only needs your web server to be able to run html, php (5.4+ on compatible as far as I know) and css. Nothing the year 2015 cannot handle. It's a pretty basic script.
 
 ## Caveats / Possible trouble
 
