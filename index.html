@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, maximum-scale=1">
+<title>Sendgrid Form with Recaptcha Validation</title>
+
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Lato:400,900,700,700italic,400italic,300italic,300,100italic,100,900italic' rel='stylesheet' type='text/css'>
+
+<!-- WARNING! -->
+<!-- Do not forget this script to run RECAPTCHA! --> 
+<script src="https://www.google.com/recaptcha/api.js?hl=es" async defer></script>
+
+</head>
+
+<body>
+<div class="wrapper">
+
+<!-- BEGINNING OF CONTACT FORM -->
+<div class="form" id="contact form">
+        
+<form id="form" class="contact" action="js/verify.php" method="post">
+<p>Name:</p><br /> 
+
+<input type="text" id="name" name="name" class="input-text animated wow flipInY delay-02s" value="Your Name" />
+
+<p>E-mail:</p><br />
+
+<input type="text" id="email" name="email" class="input-text animated wow flipInY delay-04s" value="Your E-Mail" />
+
+<p>Message:</p><br />
+
+<textarea name="message" id="message" class="input-text text-area">Please leave a short message here</textarea></p>
+
+<!-- WARNING! -->
+<!-- PLEASE ENTER YOUR PUBLIC KEY HERE: If you haven't got one, sign up and get your keys at https://www.google.com/recaptcha/admin#list -->
+
+<div class="g-recaptcha" data-sitekey="INSERT YOUR PUBLIC KEY HERE" style="padding-bottom:30px;"></div>
+
+<input class="input-btn animated wow flipInY delay-08s send" type="submit" value="Send"> <!-- Send button-->
+</form>
+
+</div>
+</div>
+
+<!-- END OF CONTACT FORM -->
+
+</body>
+</html>
