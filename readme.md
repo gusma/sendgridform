@@ -16,7 +16,7 @@ To the craftsmen of software...
 
 As this is my first repo and collaboration ever for, surprisingly, something that I haven't yet seen posted anywhere.
 
-![Hans Landa] (http://gph.is/1cwsXKy)
+![Hans Landa] (http://www.gifwave.com/media/21971_idk-shrug-inglorious-basterds-hans-lanza.gif)
 
 ## Thanks
 
