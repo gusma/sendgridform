@@ -1,6 +1,7 @@
 # sendgridform v0.1
 
 A simple contact form using sendgrid's api, and with a simple verification method using recaptcha.
+This was mangled together by [Gustavo Malamud] (http://www.malamud.com.ar) at [hola at gustavomalamud.com.ar](hola@gustavomalamud.com.ar).
 
 ## Requisites
 
@@ -94,6 +95,8 @@ As this is my first repo and collaboration ever for, surprisingly, something tha
 To the good friends at [Sendgrid] (http://www.sendgrid.com) for their [demo] (https://sendgrid.com/blog/create-basic-contact-form-sendgrid-php/) on how to build the form.
 
 To all of you having to read this unfinishable dross of code and poor text. 
+
+And to all of you that wish to take this beyond my abilities.
 
 ## Legals
 
