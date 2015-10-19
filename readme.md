@@ -6,7 +6,7 @@ This was mangled together by [Gustavo Malamud] (http://www.malamud.com.ar) at [h
 
 ## Requisites
 
-This contact form only needs your web server to be able to run html, php (5.4+ on compatible as far as I know) and css. Nothing the year 2015 cannot handle. It's a pretty basic script.
+This contact form only needs your web server to be able to run html, php (5.4+ on compatible as far as I know), and cURL. 
 
 ## Caveats / Possible trouble
 
