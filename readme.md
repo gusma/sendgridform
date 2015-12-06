@@ -70,7 +70,7 @@ Should you have any doubts about this form, please do visit their [demo form] (h
 
 ## To Do List
 
-- Add text verification (Maybe happy.js?)
+~~- Add text verification (Maybe happy.js?)~~
 - Concatenate php files into one
 - Find a better solution to the non-validated form
 
