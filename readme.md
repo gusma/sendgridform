@@ -1,11 +1,8 @@
-```
-** Warning **
 
-Maintenance for this repository has been discontinued. If you wish to use this, use it at your own risk or fork and keep on your own.
-
-Jan/2022. 
-
-```
+> ** Warning **
+>
+> Maintenance for this repository has been discontinued. If you wish to use this, use it at your own risk or fork and keep on your own.
+> Jan/2022. 
 
 
 # sendgridform v0.1
